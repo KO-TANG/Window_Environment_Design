@@ -1,0 +1,10 @@
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\bin\Debug\caculate.exe.config
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\bin\Debug\caculate.exe
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\bin\Debug\caculate.pdb
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\obj\Debug\caculate.csproj.AssemblyReference.cache
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\obj\Debug\caculate.Form1.resources
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\obj\Debug\caculate.Properties.Resources.resources
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\obj\Debug\caculate.csproj.GenerateResource.cache
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\obj\Debug\caculate.csproj.CoreCompileInputs.cache
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\obj\Debug\caculate.exe
+C:\Users\clair\OneDrive\桌面\C#\caculate\caculate\obj\Debug\caculate.pdb
