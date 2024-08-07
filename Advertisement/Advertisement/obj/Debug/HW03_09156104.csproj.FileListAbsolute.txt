@@ -1,0 +1,10 @@
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\bin\Debug\HW03_09156104.exe.config
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\bin\Debug\HW03_09156104.exe
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\bin\Debug\HW03_09156104.pdb
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\obj\Debug\HW03_09156104.csproj.AssemblyReference.cache
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\obj\Debug\HW03_09156104.Form1.resources
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\obj\Debug\HW03_09156104.Properties.Resources.resources
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\obj\Debug\HW03_09156104.csproj.GenerateResource.cache
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\obj\Debug\HW03_09156104.csproj.CoreCompileInputs.cache
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\obj\Debug\HW03_09156104.exe
+C:\Users\clair\OneDrive\桌面\C#\HW03_09156104\HW03_09156104\obj\Debug\HW03_09156104.pdb
