@@ -1,0 +1,10 @@
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\bin\Debug\MID_09156104_1.exe.config
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\bin\Debug\MID_09156104_1.exe
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\bin\Debug\MID_09156104_1.pdb
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\obj\Debug\MID_09156104_1.csproj.AssemblyReference.cache
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\obj\Debug\MID_09156104_1.Form1.resources
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\obj\Debug\MID_09156104_1.Properties.Resources.resources
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\obj\Debug\MID_09156104_1.csproj.GenerateResource.cache
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\obj\Debug\MID_09156104_1.csproj.CoreCompileInputs.cache
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\obj\Debug\MID_09156104_1.exe
+C:\Users\clair\OneDrive\桌面\C#\MID_09156104_1\MID_09156104_1\obj\Debug\MID_09156104_1.pdb
